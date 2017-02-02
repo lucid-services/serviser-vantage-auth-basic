@@ -1,6 +1,6 @@
 {
-  "name": "vantage-auth-basic",
-  "version": "1.0.0",
+  "name": "bi-vantage-auth-basic",
+  "version": "1.0.1",
   "description": "Basic Auth extension for vantage.js",
   "main": "./lib/vantage-auth-basic.js",
   "scripts": {
