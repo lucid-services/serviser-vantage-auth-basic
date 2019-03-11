@@ -1,5 +1,5 @@
 {
-  "name": "bi-vantage-auth-basic",
+  "name": "serviser-vantage-auth-basic",
   "version": "1.0.2",
   "description": "Basic Auth extension for vantage.js",
   "main": "./lib/vantage-auth-basic.js",
